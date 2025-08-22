@@ -13,7 +13,7 @@ Write a Python program that:
 3. Displays the result accordingly.
 
 ### Solution
-- **File:** `even_odd.py`
+- **File:** `oddeve.py`
 - The script prompts the user to enter an integer, checks if the number is even using the modulo operator, and prints whether the number is even or odd.
 
 #### Example Usage
@@ -33,7 +33,7 @@ Write a Python program that:
 3. Displays the final sum.
 
 ### Solution
-- **File:** `sum_1_to_50.py`
+- **File:** `add50.py`
 - The script uses a for loop to sum numbers from 1 to 50 and prints the result.
 
 #### Example Usage
